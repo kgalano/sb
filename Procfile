@@ -1,1 +1,1 @@
-worker: java -jar target/sb.jar
+worker: java -jar target/bot.js
