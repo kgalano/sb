@@ -1,1 +1,1 @@
-worker: java -jar target/bot.js
+worker: node bot.js
